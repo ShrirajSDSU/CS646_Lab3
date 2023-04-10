@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quotes App</string>
+    <string-array name="quotes">
+        <item>"The only way to do great work is to love what you do." - Steve Jobs</item>
+        <item>"Believe you can and you're halfway there." - Theodore Roosevelt</item>
+        <item>"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill</item>
+        <item>"Be the change that you wish to see in the world." - Mahatma Gandhi</item>
+        <item>"The best way to predict the future is to invent it." - Alan Kay</item>
+        <item>"If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough." - Oprah Winfrey</item>
+        <item>"The only true wisdom is in knowing you know nothing." - Socrates</item>
+        <item>"I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison</item>
+        <item>"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt</item>
+        <item>"In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.</item>
+        <item>"Be yourself; everyone else is already taken." - Oscar Wilde</item>
+        <item>"It does not matter how slowly you go as long as you do not stop." - Confucius</item>
+        <item>"Happiness is not something ready made. It comes from your own actions." - Dalai Lama XIV</item>
+        <item>"Strive not to be a success, but rather to be of value." - Albert Einstein</item>
+        <item>"The only way to have a good day is to start it with a positive attitude." - Unknown</item>
+        <item>"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt</item>
+    </string-array>
+    <string name="next">next quote</string>
+    <string name="prev">previous quote</string>
+
+</resources>
