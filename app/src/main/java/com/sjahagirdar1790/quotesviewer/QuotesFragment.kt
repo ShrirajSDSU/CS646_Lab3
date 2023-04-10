@@ -1,3 +1,8 @@
+/*
+This Kotlin code defines a Fragment class that displays a quote in a TextView and allows the user
+to swipe up or down to display the next or previous quote. It also registers the TextView for context
+menu handling and provides methods for saving and restoring the state of the Fragment.
+*/
 package com.sjahagirdar1790.quotesviewer
 
 import android.annotation.SuppressLint

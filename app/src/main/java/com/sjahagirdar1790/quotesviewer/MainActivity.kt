@@ -1,3 +1,12 @@
+/*
+
+This Kotlin code defines a package named "com.sjahagirdar1790.quotesviewer".
+It imports necessary modules such as "AppCompatActivity", "Bundle", and "QuotesFragment".
+The "MainActivity" class extends the "AppCompatActivity" class.
+It overrides the "onCreate" method and sets the content view for the activity.
+It then checks if there is a saved instance state and creates a new instance of the "QuotesFragment" class
+and replaces the container with the fragment using a transaction that is committed immediately.
+*/
 package com.sjahagirdar1790.quotesviewer
 
 import androidx.appcompat.app.AppCompatActivity
